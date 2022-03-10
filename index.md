@@ -2,14 +2,14 @@
 
 
 
-### -Organizers-
+### **-Organizers-**
 
 Huang-Chia Shih(Yuan Ze University, Taiwan)<br>Takahiro Ogawa(Hokkaido University, Japan)<br>Rainer Lienhart (Augsburg University, Germany)<br>Jenq-Neng Hwang (University of Washington, USA)<br>Thomas B. Moeslund (Aalborg University, Denmark)
 
 
 
 
-### -Descriptions-
+### **-Descriptions-**
 
    The growth in the number of potential programs shows promising technological advances in the sports industry. However, it leads to more limits. There is not sufficient data to effectively create learning and artificial intelligence. Sporting research has been already gone underway by large companies like IBM, Google, Facebook, and Disney Research. It is apparent that big data sports analytics is a strong, positive correlation to maximizing a sport team’s potential, and any team will find itself at a severe disadvantage if they do not actively incorporate themselves with big data analytics.
 
@@ -18,7 +18,7 @@ Huang-Chia Shih(Yuan Ze University, Taiwan)<br>Takahiro Ogawa(Hokkaido Universit
    Data-driven machine learning technique plays a vital role in developing and improving sports in recent years. Coaches and athletes can utilize this data to make better decisions for developing their teams. For example, popular sports like football fuel the drive for technological advances in AI and machine learning. With the current technology, specific details and strategies can be extracted from the data to help coaches and players see the whole picture with clarity. By adding context to the collected data, coaches and analysts can allocate more time towards developing strategies.
 
 
-### -Scope and Topics-
+### **-Scope and Topics-**
 
 This workshop is open to anyone who is interested in sports content analytics. To cover the rapid progress of emerging areas, we plan to focus our target field on three topics:
 
@@ -28,12 +28,12 @@ This workshop is open to anyone who is interested in sports content analytics. T
 
 3.	Data-driven ghosting and prediction schemes for sports. Sports data is analyzed to create “ghosts” of players and enables them to visually study a situation and compare what the ghosts would have done and what they should have done. The research field includes human-computer interaction, AR/VR immersive data visualization, and UX/UI interaction design with human factors.
 
-### -Date and time-
+### **-Date and time-**
 
 Paper Submission: March 21, 2022<br>Notification of Acceptance/Rejection: April 22, 2022
 <br>Camera-Ready Due Date: April 29, 2022
 
-### -Schedule-
+### **-Schedule-**
 
 TBD
 
