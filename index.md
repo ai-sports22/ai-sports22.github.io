@@ -46,4 +46,4 @@ Previous workshops:
 <br>
 [2nd AI-Sports21' in conjunction with ICME 2021](https://oz.nthu.edu.tw/~d917904/AI-Sports21.html)
 <br>
-[1nd AI-Sports20' in conjunction with ICME 2020](https://2020.ieeeicme.org/www.2020.ieeeicme.org/index.php/workshops/index.html#Workshop1)
+[1 AI-Sports20' in conjunction with ICME 2020](https://2020.ieeeicme.org/www.2020.ieeeicme.org/index.php/workshops/index.html#Workshop1)
