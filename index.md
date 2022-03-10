@@ -1,4 +1,4 @@
-## ICME 2022 Workshop Proposal
+## The 3rd Artificial Intelligence in Sports (AI-Sports) Workshop
 
 You can use the [editor on GitHub](https://github.com/ai-sports22/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
