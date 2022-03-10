@@ -7,10 +7,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Organize
 
 Huang-Chia Shih(Yuan Ze University, Taiwan)
+
 Takahiro Ogawa(Hokkaido University, Japan)
+
 Rainer Lienhart (Augsburg University, Germany)
+
 Jenq-Neng Hwang (University of Washington, USA)
+
 Thomas B. Moeslund (Aalborg University, Denmark)
+
 
 ```markdown
 Syntax highlighted code block
