@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ai-sports22/test/edit/gh-p
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Organize
+### Organizers
 
 Huang-Chia Shih(Yuan Ze University, Taiwan)
 
@@ -17,30 +17,40 @@ Jenq-Neng Hwang (University of Washington, USA)
 Thomas B. Moeslund (Aalborg University, Denmark)
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Descriptions
 
-- Bulleted
-- List
+   The growth in the number of potential programs shows promising technological advances in the sports industry. However, it leads to more limits. There is not sufficient data to effectively create learning and artificial intelligence. Sporting research has been already gone underway by large companies like IBM, Google, Facebook, and Disney Research. It is apparent that big data sports analytics is a strong, positive correlation to maximizing a sport team’s potential, and any team will find itself at a severe disadvantage if they do not actively incorporate themselves with big data analytics.
 
-1. Numbered
-2. List
+   Generally, computers could provide coaches and teams with improved accuracy in analyzing common mistakes and improving plays at a faster rate than humans. Particularly, media outlets are increasingly focused on enhancing the spectator experience through technology, and AI is helping to shape the look and feel of the sports enthusiasts’ experience. Effective coaching is a skill that requires experience and is developed over time; it is also an imperfect science. The utilization of various sensors for bioinformatics data acquisition has become popular quickly in some recent years. Meanwhile, various research fields such as computer vision, sensing technology, wearable technology, machine learning and data-driven approaches recently have made huge advancements, and have massively impacted many aspects of sports. Moreover, the joint assessment of multiple modalities for sports data analytics offers appealing innovations to advance the field. 
 
-**Bold** and _Italic_ and `Code` text
+   Data-driven machine learning technique plays a vital role in developing and improving sports in recent years. Coaches and athletes can utilize this data to make better decisions for developing their teams. For example, popular sports like football fuel the drive for technological advances in AI and machine learning. With the current technology, specific details and strategies can be extracted from the data to help coaches and players see the whole picture with clarity. By adding context to the collected data, coaches and analysts can allocate more time towards developing strategies.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Scope and Topics
 
-### Jekyll Themes
+This workshop is open to anyone who is interested in sports content analytics. To cover the rapid progress of emerging areas, we plan to focus our target field on three topics:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ai-sports22/test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1.	Sports tactic analysis using machine learning and visual processing. This session aims at applications in domains such as event reasoning and tactic analysis. In offline service, historical records can be used to analyze video content through machine learning. In online services, discovered latent knowledge can be used for real-time tactic recommendations. Recently, optimization of player positioning, posture, and movement with deep learning method is attracting much attention.
 
-### Support or Contact
+2.	Applying big data/machine learning techniques to personalized athletic training and rehabilitation. This session highlights the integration of computation into athletic training and recovery. There is enormous potential in the data to revolutionize the sports industry and to drastically improve athletes’ performance and health. Big data analytics in sports are uncommon but history has revealed that utilizing the data correlates with faster and more efficient improvement in an athlete’s performance.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3.	Data-driven ghosting and prediction schemes for sports. Sports data is analyzed to create “ghosts” of players and enables them to visually study a situation and compare what the ghosts would have done and what they should have done. The research field includes human-computer interaction, AR/VR immersive data visualization, and UX/UI interaction design with human factors.
+
+### Date and time
+
+Paper Submission: March 21, 2022
+
+Notification of Acceptance/Rejection: April 22, 2022
+
+Camera-Ready Due Date: April 29, 2022
+
+### Schedule
+
+TBD
+
+
+
+
+
+Previous workshops:[2nd AI-Sports21' in conjunction with ICME 2020](https://oz.nthu.edu.tw/~d917904/AI-Sports21.html)
