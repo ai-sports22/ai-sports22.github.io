@@ -1,4 +1,4 @@
-## The 3rd Artificial Intelligence in Sports (AI-Sports) Workshop
+## **The 3rd Artificial Intelligence in Sports (AI-Sports) Workshop**
 
 
 
@@ -42,4 +42,8 @@ TBD
 <br>
 
 ___
-Previous workshops:[2nd AI-Sports21' in conjunction with ICME 2020](https://oz.nthu.edu.tw/~d917904/AI-Sports21.html)
+Previous workshops: 
+<br>
+[2nd AI-Sports21' in conjunction with ICME 2021](https://oz.nthu.edu.tw/~d917904/AI-Sports21.html)
+<br>
+[1nd AI-Sports21' in conjunction with ICME 2020](https://2020.ieeeicme.org/www.2020.ieeeicme.org/index.php/workshops/index.html#Workshop1)
