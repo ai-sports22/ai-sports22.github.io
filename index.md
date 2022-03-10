@@ -39,7 +39,8 @@ TBD
 
 ### **-Paper Submission-**
 
-Authors should prepare their manuscript according to the Guide for Authors of ICME available at Author Information and Submission Instructions:[http://2022.ieeeicme.org/author-info.html] (http://2022.ieeeicme.org/author-info.html)
+Authors should prepare their manuscript according to the Guide for Authors of ICME available at Author Information and Submission Instructions: [http://2022.ieeeicme.org/author-info.html](http://2022.ieeeicme.org/author-info.html)
+<br>
 Submission portal: [https://cmt3.research.microsoft.com/ICMEW2022](https://cmt3.research.microsoft.com/ICMEW2022)
 
 <br>
