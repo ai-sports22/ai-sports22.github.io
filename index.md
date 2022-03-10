@@ -1,5 +1,5 @@
 ## **The 3rd Artificial Intelligence in Sports (AI-Sports) Workshop**
-
+###In Conjunction with ICME 2022 July 22, 2022, Taipei, Taiwan###
 
 
 ### **-Organizers-**
@@ -36,6 +36,11 @@ Paper Submission: March 21, 2022<br>Notification of Acceptance/Rejection: April 
 ### **-Schedule-**
 
 TBD
+
+### **-Paper Submission-**
+
+Authors should prepare their manuscript according to the Guide for Authors of ICME available at Author Information and Submission Instructions: (http://2022.ieeeicme.org/author-info.html)
+Submission portal: (https://cmt3.research.microsoft.com/ICMEW2022)
 
 <br>
 <br>
