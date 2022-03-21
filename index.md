@@ -30,7 +30,7 @@ This workshop is open to anyone who is interested in sports content analytics. T
 
 ### **-Date and time-**
 
-Paper Submission: March 21, 2022<br>Notification of Acceptance/Rejection: April 22, 2022
+Paper Submission: April 11, 2022<br>Notification of Acceptance/Rejection: April 22, 2022
 <br>Camera-Ready Due Date: April 29, 2022
 
 ### **-Schedule-**
