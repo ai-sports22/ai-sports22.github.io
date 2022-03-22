@@ -1,5 +1,5 @@
 ## **The 3rd Artificial Intelligence in Sports (AI-Sports) Workshop**
-In Conjunction with ICME 2022 July 22, 2022, Taipei, Taiwan
+[In Conjunction with ICME 2022 July 22, 2022, Taipei, Taiwan](http://2022.ieeeicme.org/)
 
 
 ### **-Organizers-**
