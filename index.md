@@ -36,7 +36,7 @@ Paper Submission: April 11, 2022<br>Notification of Acceptance/Rejection: April 
 ### **-Schedule-**
 
 
-![image](https://github.com/ai-sports22/ai-sports22.github.io/blob/main/%E5%9C%96%E7%89%873.gif)
+![image](https://github.com/ai-sports22/ai-sports22.github.io/raw/master/%E5%9C%96%E7%89%873.gif)
 
 
 ### **-Paper Submission-**
