@@ -36,6 +36,9 @@ Paper Submission: April 11, 2022<br>Notification of Acceptance/Rejection: April 
 ### **-Schedule-**
 
 
+!\[image\](https://github.com/ai-sports22/ai-sports22.github.io/blob/main/%E5%9C%96%E7%89%873.gif)
+
+
 ### **-Paper Submission-**
 
 Authors should prepare their manuscript according to the Guide for Authors of ICME available at Author Information and Submission Instructions: [http://2022.ieeeicme.org/author-info.html](http://2022.ieeeicme.org/author-info.html)
